@@ -1,6 +1,6 @@
 ## Personal Portfolio
 
-### [Live Site](https://jsmasterypro.com)
+### [Live Site](https://quirky-leakey-5f3fe3.netlify.app/)
 
 ![Portfolio Website](public/images/website-live.png)
 
