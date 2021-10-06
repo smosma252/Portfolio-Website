@@ -2,7 +2,7 @@
 
 ### [Live Site](https://jsmasterypro.com)
 
-![Portfolio Website](https://i.ibb.co/WgPMpts/image.png)
+![Portfolio Website](/website-live.png)
 
 Setup:
 - run ```npm i && npm start```
