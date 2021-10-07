@@ -1,6 +1,6 @@
 ## Personal Portfolio
 
-### [Live Site](https://quirky-leakey-5f3fe3.netlify.app/)
+### [Live Site](https://osama-shahid.netlify.app/)
 
 ![Portfolio Website](public/images/website-live.png)
 
