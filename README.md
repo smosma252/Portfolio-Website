@@ -1,8 +1,8 @@
-## Personal Portfolio
+## Personal Portfolio - Osama Shahid
 
-### [Live Site](https://jsmasterypro.com)
+### [Live Site](https://osama-shahid.netlify.app/)
 
-![Portfolio Website](https://i.ibb.co/WgPMpts/image.png)
+![Portfolio Website](public/images/website-live.png)
 
-Setup:
-- run ```npm i && npm start```
+
+
