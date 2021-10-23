@@ -1,11 +1,11 @@
 export const projects = [
   {
-    title: 'Personal Blog',
-    description: "Store blog posts in mongoDB Atlas and be able to post blogs to database through user-interface",
-    image: '/images/website.gif',
-    tags: ['Mongo', 'Express', 'EJS', 'Node', 'HTML/CSS'],
-    source: 'https://github.com/smosma252/Personal-Blog-FullStack/blob/master/README.md',
-    visit: 'https://github.com/smosma252/Personal-Blog-FullStack/blob/master/README.md',
+    title: 'Fifa Dashboard',
+    description: " Allows users to get Fifa related information. The user can filter through players, games, clubs, nationality and view stats visually through charts. Hosted a MySQL database through AWS and built the frontend using React, and backend using Nodejs. (Please message me if you want to see code).",
+    image: '/images/fifa-project.gif',
+    tags: ['React', 'JavaScript', 'Nodejs', 'AWS-RDS', 'MySQL'],
+    source: 'https://github.com/smosma252',
+    visit: 'https://github.com/smosma252',
     id: 0,
   },
   {
@@ -19,13 +19,24 @@ export const projects = [
   },
   {
     title: 'Student Database Viewer',
-    description: "Built with user-interface with React to capture data from API and all students data. This web application can filter out users by first name and can collapse and expand information to view test scores.  ",
+    description: "Built user-interface with React to capture student data from API. This web application can filter out users by first name and can collapse and expand information to view test scores. ",
     image: '/images/assessment2.gif',
     tags: ['React', 'JavaScript', 'REST API'],
     source: 'https://github.com/smosma252/Student-Database-Viewer/blob/main/README.md',
     visit: 'https://github.com/smosma252/Student-Database-Viewer/blob/main/README.md',
     id: 2,
   },
+  {
+    title: 'Personal Blog',
+    description: "Store blog posts in mongoDB Atlas and be able to post blogs to database through user-interface",
+    image: '/images/website.gif',
+    tags: ['Mongo', 'Express', 'EJS', 'Node', 'HTML/CSS'],
+    source: 'https://github.com/smosma252/Personal-Blog-FullStack/blob/master/README.md',
+    visit: 'https://github.com/smosma252/Personal-Blog-FullStack/blob/master/README.md',
+    id: 3,
+  },
+
+
 ];
 
 export const TimeLineData = [
