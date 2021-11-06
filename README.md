@@ -2,7 +2,7 @@
 
 ### [Live Site](https://osama-shahid.netlify.app/)
 
-![Portfolio Website](public/images/website-live.png)
+![Portfolio Website](public/images/website-live.png) 
 
 
 
